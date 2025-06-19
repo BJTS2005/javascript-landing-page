@@ -135,6 +135,11 @@ h5 {
 h6 {
   font-size: 16px;
 }
+
+.img-banner{
+  filter: invert(100%);
+}
+
 .serif {
   font-family: serif;
 }
